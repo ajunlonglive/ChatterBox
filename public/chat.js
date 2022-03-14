@@ -1,5 +1,5 @@
 //Make connection
-const socket=io.connect('http://chatterbox-coderraj.herokuapp.com')
+const socket=io.connect('https://chatterbox-coderraj.herokuapp.com')
 
 //Query DOM
 
