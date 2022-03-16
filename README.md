@@ -10,6 +10,8 @@ It is a chat room made with socket.io that enables low-latency, bidirectional an
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/77974149/158141928-d5fe163d-ba27-49f3-a145-fd3f69e981e5.png)
+
+
 ![image](https://user-images.githubusercontent.com/77974149/158142048-4906b0c0-967a-4a1a-96d5-2a12753d7ed3.png)
 
 ## Tech Stack
