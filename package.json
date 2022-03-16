@@ -4,7 +4,8 @@
   "description": "A chat room using socketio",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "author": "coderraj8989",
   "license": "ISC",
